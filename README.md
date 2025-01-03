@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!  
 
-Hi there! I'm Marco Bitar, a passionate software developer with experience in building robust applications across multiple platforms. I enjoy designing innovative solutions, leveraging efficient algorithms, and crafting user-friendly experiences. Whether it's front-end, back-end, or mobile app development, I bring curiosity and dedication to every project.
+Hi there! I'm Marco Bitar, a passionate computer science student at University of Balamand. I enjoy designing innovative solutions, and crafting user-friendly experiences. Whether it's front-end, back-end, or mobile app development, I bring curiosity and dedication to every project.
 
 ---
 
