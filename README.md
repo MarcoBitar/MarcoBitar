@@ -51,9 +51,9 @@ A multiview iOS app helping users plan vacations with a dynamic trip cost calcul
 
 ---
 
-### **4. Findly API**
+### **4. Findly**
 
-An interactive API that entertains users with riddles and clues to find hidden treasures across websites.
+An interactive website that entertains users with riddles and clues to find hidden treasures across websites.
 
 - **Highlights:**
   - User authentication and management.
