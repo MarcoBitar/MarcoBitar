@@ -66,6 +66,54 @@ An interactive website that entertains users with riddles and clues to find hidd
 
 ---
 
+### **5. ZVote**
+
+A pure Java and JavaFX desktop application for electronic voting. This project features a robust back-end for vote management and a modern JavaFX-based front-end for seamless user interaction. Users can create polls, vote, and view results in real time.
+
+- **Highlights:**
+  - Poll creation and management
+  - Secure voting
+  - Real-time result visualization
+  - JavaFX interactive UI
+ 
+- **Tech Used:** Java, JavaFX, IntelliJ.
+
+[View Repository](https://github.com/MateoBitar/ZVote)
+
+---
+
+### **6. ZVote-SpringBoot**
+
+The backend Spring Boot implementation for ZVote. This repository provides a RESTful API for voting operations, including poll creation, voting, and results retrieval. Designed for scalability and integration with various front-end clients.
+
+- **Highlights:**
+  - RESTful API for polls, votes, and results
+  - CRUD operations for polls and votes
+  - User authentication
+  - Persistent storage using JPA/Hibernate
+ 
+- **Tech Used:** SpringBoot, JPA Hibernate, IntelliJ.
+
+[View Repository](https://github.com/MateoBitar/ZVote-SpringBoot)
+
+---
+
+### **7. ZVote-FrontEnd**
+
+A JavaFX-based graphical user interface for ZVote, integrated with the ZVote-SpringBoot backend. This application enables users to interact with polls, cast votes, and view results through a modern desktop UI, communicating with the backend via RESTful API.
+
+- **Highlights:**
+  - User authentication
+  - Poll browsing and voting
+  - Real-time results from backend
+  - Responsive JavaFX UI
+ 
+- **Tech Used:** JavaFX, IntelliJ.
+
+[View Repository](https://github.com/MateoBitar/ZVote-FrontEnd)
+
+---
+
 ## 🛠️ Skills and Technologies
 
 ### Languages:
